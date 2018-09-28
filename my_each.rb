@@ -13,4 +13,3 @@ i = 0
 while i < arr.length {|word| word}
 i += 1 
 end
-end 
